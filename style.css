@@ -1,0 +1,27 @@
+.container{
+    background-color:whitesmoke;
+    border:3px solid DodgerBlue;
+    border-color: darkviolet;
+    width: 500px;
+    height: 260px;
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
+.join{
+    color: white;
+    text-align: center;
+}
+.email{
+
+    margin-right: 24px;
+}
+.name{
+    margin-bottom: 10px;
+}
+.color{
+    color: red;
+}
+.textcolor{
+    color: blue;
+}
